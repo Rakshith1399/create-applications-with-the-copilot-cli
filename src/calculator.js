@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Node.js CLI Calculator
+ * Node.js CLI Calculator..
  * 
  * Supports the following basic arithmetic operations:
  * - Addition (+)
